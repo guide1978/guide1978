@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @guide1978
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m guide
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on google
+- 📫 How to reach me ...umm
 
 <!---
 guide1978/guide1978 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
