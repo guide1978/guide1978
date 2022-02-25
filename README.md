@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on google
-- 📫 How to reach me ...umm
+- 📫 How to reach me in this here
 
 <!---
 guide1978/guide1978 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
